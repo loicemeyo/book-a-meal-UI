@@ -1,0 +1,68 @@
+body {
+    background:#FEF9E7;
+    width: 80%;
+    color:#2E4053;
+    font-family: 'Gamja Flower', cursive;
+    font-size: 20px;
+  }
+title{
+    text-align: center;
+}
+.welcome {
+margin-top: 18%;
+margin-left: 20%;
+margin-right: 45%;
+font-size: 195%;
+text-align: right;
+}
+.meal{
+    margin-top: 0%;
+    margin-left: 60%;
+    display: inline;
+    margin-bottom: 60% !important;
+}
+#selector{
+    width: 40%;
+    height:0%
+
+}
+.wrapper {
+    text-align: center;
+    margin-left: 25%
+}
+
+.button {
+    background-color: #2E4053;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 16px;
+}
+.input{
+    line-height: 2em;
+    padding: 5px;
+    display: inline;
+}
+.form{
+    text-align: left;
+    font-family: 'Gamja Flower';
+    margin: 0 auto;
+    width: 30%;
+    position:fixed;
+    background: white;
+    top:30%;
+    left:33%;
+    padding: 30px 70px 20 58px;
+    font-size: 18px;
+    display: table;
+    
+}
+.input{
+    display: inline !important;
+    margin-top:0%;
+}
